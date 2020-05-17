@@ -1,0 +1,17 @@
+student,dataset name,dataset type,discrete variable,continuous variable,nominal variable,ordinal variable,limitations
+1,Building automation data,time series,TRUE,TRUE,FALSE,FALSE,"often poor in data quality, no ground truth"
+2,Building automation data,time series,TRUE,TRUE,FALSE,FALSE,"data gaps, poorly calibrated/malfunctioning sensors, limited ground truth availability, mislabelled data points"
+3,Heat pump state points,time series,TRUE,TRUE,FALSE,FALSE,sampling isn’t as frequent as I would like
+4,Energy from mains consumptions in Commercial building,time series,TRUE,TRUE,FALSE,FALSE,"high frequency data is not available sometimes (minimum 5 to 10 min) often poor in data quality, no ground truth"
+5,"Transportation, internet data usage and building sensor data",time series,TRUE,TRUE,TRUE,FALSE,"no ground truth (Google Timeline), different sampling rates/formats"
+6,Forecast Weather data,time series,TRUE,TRUE,FALSE,FALSE,"often poor in data quality, no ground truth"
+7,Number of bookings and actual show ups,time series,FALSE,TRUE,TRUE,FALSE,Limitation of going back years and years
+8,"I have multiple experimental datasets: (1) Temperature data of: sand store, indoor water tanks, house indoor air temperatures, and at various points in the plumbing line. (2) Flowmeter data of various plumbing lines (3) Moisture content data (of moisture in sand store)",time series,FALSE,TRUE,TRUE,FALSE,"missing data with sensors that fail or DAQs that fail, uncalibrated equipment giving unsure readings"
+9,Building Energy Management System (BEMS) data,time series,TRUE,TRUE,FALSE,FALSE,"often poor in data quality, no ground truth"
+10,"Nutrient computations, pH calculations, Light intensity, Electrical conductivity",time series,FALSE,TRUE,FALSE,FALSE,"often poor in data quality, no ground truth"
+11,Building energy modeling,time series,TRUE,TRUE,FALSE,FALSE,Uncertainty (not knowing how close to real measured data)
+12,Emissions data,time series,FALSE,TRUE,FALSE,FALSE,poor calibration of equipment (gas analyzer or flow meter)
+13,Light Meter PCE VDL 16I,time series,FALSE,TRUE,FALSE,FALSE,largely dependent on instrument performance and reading
+14,Thermometer and rain gauge,time series,TRUE,TRUE,FALSE,FALSE,data quality is not always great
+15,sample the sludge the wastewater in the pond and measure the PH,time series,TRUE,TRUE,TRUE,FALSE,Uncertainty for the data quality (highly influenced by the weather)
+16,Building Management System data,time series,TRUE,TRUE,FALSE,FALSE,"Inaccurate instrumentation readings, variability of occupant’s resilience to change in enviornment"
