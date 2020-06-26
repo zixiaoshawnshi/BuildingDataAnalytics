@@ -5,7 +5,7 @@ This class introduces fundamental topics on analyzing building energy data. It c
 
 Links to Lecture notes and Jupyter Notebooks are hosted below.
 
-Note material may be updated intermittently. Any feedback is welcomed!
+Note class material may be updated intermittently. Any feedback is welcomed!
 
 ## Lecture Notes
 + [Lecture 1 Introduction](https://docs.google.com/presentation/d/14KP7GUH_U5sZDDkLwwDiZLVqPUzkmhWtrYJITjgLvX4/edit?usp=sharing)
