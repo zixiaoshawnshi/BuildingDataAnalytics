@@ -1,7 +1,7 @@
 # Building Data Analysis and Prediction
 **Zixiao (Shawn) Shi**
 
-**Email: zixiao.shawn.shi@gmail.com or zixiao.shi@carleton.ca **
+**Email: zixiao.shawn.shi@gmail.com or zixiao.shi@carleton.ca**
 
 This class introduces fundamental topics on analyzing building energy data. It covers topics such as descriptive statistics, visualization, hypothesis testing, clustering, regression, forecasting and classification. Students are expected to have a basic understanding of statistics, building science and computer programming (preferrably Python).
 
