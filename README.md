@@ -3,7 +3,7 @@
 
 **Email: zixiao.shawn.shi@gmail.com or zixiao.shi@carleton.ca**
 
-This class introduces fundamental topics on analyzing building energy data. It covers topics such as descriptive statistics, visualization, hypothesis testing, clustering, regression, forecasting and classification. Students are expected to have a basic understanding of statistics, building science and computer programming (preferrably Python).
+This class introduces fundamental topics on analyzing building energy data, taught as ENVE5701 at Carleton University, Ottawa Canada. It covers topics such as descriptive statistics, visualization, hypothesis testing, clustering, regression, forecasting and classification. Students are expected to have a basic understanding of statistics, building science and computer programming (preferrably Python).
 
 Links to Lecture notes and Jupyter Notebooks are hosted below.
 
