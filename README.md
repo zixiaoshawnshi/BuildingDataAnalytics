@@ -1,4 +1,4 @@
-# BuildingDataAnalytics
+# Building Data Analysis and Prediction
 **by Zixiao (Shawn) Shi, 2020**
 
 This class introduces fundamental topics on analyzing building energy data. It covers topics such as descriptive statistics, visualization, hypothesis testing, clustering, regression, forecasting and classification. Students are expected to have a basic understanding of statistics, building science and computer programming (preferrably Python).
